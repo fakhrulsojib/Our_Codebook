@@ -10,3 +10,4 @@ These are to be checked again:
 9. 2D sparse table (Sojib)
 10. 1D sparse table (zakir)
 11. Treap (Nayeem)
+12. Trie (Zakir - revision)
