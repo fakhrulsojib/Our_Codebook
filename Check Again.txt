@@ -20,3 +20,4 @@ These are to be checked again:
 19. Eular Path (Zakir)
 20. HLD (zakir)
 21. stirling number of second kind for fixed n and r (Sojib)
+22. revision diophantine eq (zakir, sojib)
