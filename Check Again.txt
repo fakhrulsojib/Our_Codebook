@@ -9,3 +9,4 @@ These are to be checked again:
 8. Persistant tree could be removed (?)
 9. 2D sparse table (Sojib)
 10. 1D sparse table (zakir)
+11. Treap (Nayeem)
