@@ -5,3 +5,4 @@ These are to be checked again:
 4. MO (zakir)
 5. BIT (nayeem)
 6. Segment tree structured (nayeem)
+7. merge sort tree structured (nayeem)
