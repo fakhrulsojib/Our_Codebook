@@ -16,3 +16,13 @@ template<class T>auto &operator<<(ostream& os,set<T>_s){for(auto x:_s){os<<x<<" 
 #pragma GCC optimize("Ofast")
 #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
 #pragma GCC optimize("unroll-loops")
+
+//faster IO
+inline int getint(){
+    char ch = getchar(); int x = 0;
+    while(ch < '0' || ch > '9') ch = getchar();
+    while(ch >= '0' && ch <= '9'){
+        x = x * 10 + ch - '0'; ch = getchar();
+    }
+    return x;
+}
