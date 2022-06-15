@@ -11,3 +11,4 @@ These are to be checked again:
 10. 1D sparse table (zakir)
 11. Treap (Nayeem)
 12. Trie (Zakir - revision)
+13. Hash (Zakir)
