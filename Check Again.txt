@@ -17,3 +17,4 @@ These are to be checked again:
 16. Articulation Point (zakir)
 17. Flow Note read (nayeem)
 18. Kuhn (nayeem)
+19. Eular Path (Zakir)
