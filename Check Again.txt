@@ -1,6 +1,6 @@
 These are to be checked again:
 1. sos dp (sojib)
-2. fastio (nayeem) (done)
+2. fastio (nayeem) (DONE)
 3. LCS (Faster) (----)
 4. MO (zakir)
 5. BIT (nayeem)
@@ -16,7 +16,7 @@ These are to be checked again:
 15. SCC (zakir)
 16. Articulation Point (zakir)
 17. Flow Note read (nayeem)
-18. Kuhn (nayeem)
+18. Kuhn (nayeem) (DONE)
 19. Eular Path (Zakir)
 20. HLD (zakir)
 21. stirling number of second kind for fixed n and r (Sojib)
