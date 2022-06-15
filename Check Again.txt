@@ -19,3 +19,4 @@ These are to be checked again:
 18. Kuhn (nayeem)
 19. Eular Path (Zakir)
 20. HLD (zakir)
+21. stirling number of second kind for fixed n and r (Sojib)
