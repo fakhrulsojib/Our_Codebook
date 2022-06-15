@@ -1,3 +1,4 @@
+These are to be checked again:
 1. sos dp
 2. fastio
-3. 
+3. LCS (Faster)
