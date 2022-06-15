@@ -14,3 +14,4 @@ These are to be checked again:
 13. Hash (Zakir)
 14. Game (sojib)
 15. SCC (zakir)
+16. Articulation Point (zakir)
