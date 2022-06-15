@@ -1,6 +1,6 @@
 These are to be checked again:
 1. sos dp (sojib)
-2. fastio (nayeem)
+2. fastio (nayeem) (done)
 3. LCS (Faster) (----)
 4. MO (zakir)
 5. BIT (nayeem)
