@@ -13,3 +13,4 @@ These are to be checked again:
 12. Trie (Zakir - revision)
 13. Hash (Zakir)
 14. Game (sojib)
+15. SCC (zakir)
