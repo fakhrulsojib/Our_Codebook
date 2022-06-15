@@ -4,4 +4,4 @@ These are to be checked again:
 3. LCS (Faster) (----)
 4. MO (zakir)
 5. BIT (nayeem)
-6. Merge Sort Tree (nayeem)
+6. Segment tree structured (nayeem)
