@@ -1,3 +1,6 @@
+ll dis[N],vis[N],son[N],fa[N],head[N],cnt[N],sz[N],lvl[N],tmp[N];
+vi adj[N];
+ll tr[N*2];
 ll dfs(ll nd,ll p)
 {
     sz[nd]=1;
