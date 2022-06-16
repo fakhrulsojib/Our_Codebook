@@ -31,7 +31,7 @@ void hld(ll nd,ll p,ll h,ll d)
         }
     }
 }
-int get_res(int u,int v)      ///u,v are the original nodes.Not the dis[nd].
+int get_res(int u,int v,int n)      ///u,v are the original nodes.Not the dis[nd].n is used for segment_tree.
 {
     int ans=0;
     while(1)
