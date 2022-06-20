@@ -1,5 +1,5 @@
 These are to be checked again:
-1. sos dp (sojib)
+1. sos dp (sojib) (DONE)
 2. fastio (nayeem) (DONE)
 3. LCS (Faster) (----)
 4. MO (zakir) (DONE)
