@@ -19,5 +19,5 @@ These are to be checked again:
 18. Kuhn (nayeem) (DONE)
 19. Eular Path (Zakir)
 20. HLD (zakir) (DONE)
-21. stirling number of second kind for fixed n and r (Sojib)
+21. stirling number of second kind for fixed n and r (Sojib) (DONE)
 22. revision diophantine eq (zakir, sojib)
