@@ -12,7 +12,7 @@ These are to be checked again:
 11. Treap (Nayeem)
 12. Trie (Zakir - revision)
 13. Hash (Zakir) (DONE)
-14. Game (sojib)
+14. Game (sojib) (DONE)
 15. SCC (zakir)(DONE)
 16. Articulation Point (zakir) (DONE)
 17. Flow Note read (nayeem)
