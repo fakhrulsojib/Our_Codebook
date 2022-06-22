@@ -21,4 +21,5 @@ These are to be checked again:
 20. HLD (zakir) (DONE)
 21. stirling number of second kind for fixed n and r (Sojib) (DONE)
 22. revision diophantine eq (zakir, sojib)
-23. Geometry diye 25 page vorate hobe (nayeem)
+23. matexpo (nayeem) (Done)
+24. Geometry diye 25 page vorate hobe (nayeem)
