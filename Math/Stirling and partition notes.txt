@@ -1,3 +1,16 @@
+int stirling_number_of_the_second_kind(int n, int k) {
+  if(n==0&&k==0) return 1;
+  if(n==0||k==0) return 0;
+  int ans = 0;
+  for(int i=1;i<=k;i++){
+    int parity = ((k - i) % 2 == 0 ? +1 : -1);
+    parity=(parity+mod)%mod;
+    ans += 1LL*ncr(k, i) * bigmod(i,n)%mod * parity%mod;
+    ans%=mod;
+  }
+  return 1LL*ans * finv[k]%mod;
+}
+
 * Number of permutations of n elements with k disjoint cycles
 = Str1(n,k) = (n-1) * Str1(n-1,k) + Str1(n-1,k-1)
 
