@@ -7,7 +7,7 @@ These are to be checked again:
 6. Segment tree structured (nayeem)
 7. merge sort tree structured (nayeem)
 8. Persistant tree could be removed (?)
-9. 2D sparse table (Sojib)
+9. 2D sparse table (Sojib) (DONE)
 10. 1D sparse table (zakir)(DONE)
 11. Treap (Nayeem)
 12. Trie (Zakir - revision)
