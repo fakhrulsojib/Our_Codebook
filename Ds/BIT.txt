@@ -1,6 +1,6 @@
 Fenwick / Binary index tree (1 indexed)
 g(index) = index & (-index).  [ x += g(x) for update or x -= g(x) for query );
-range update and point query: for adding value v in (l, r), add(l, v) and add(r + 1, -v);
+range update and point query: Add value v in (l, r) -> add(l, v) and add(r + 1, -v);
 range update and range query: take two BIT B1 and B2
   define add(bit, index, value) and sum(bit, index) [normal sum and add for BIT]
   degine range_add(l, r, x)
