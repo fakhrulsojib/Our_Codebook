@@ -5,3 +5,4 @@ GCD_type ex_GCD(long long a, long long b)
     GCD_type pom = ex_GCD(b, a % b);
     return {pom.y, pom.x - a / b * pom.y, pom.d};
 }
+// modinv(a, mod) = (x % mod + mod) % mod, x = ex_GCD(a, mod) -> x
