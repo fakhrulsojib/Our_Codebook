@@ -5,7 +5,7 @@ struct node {
     node(int v = 0) {
         val = sum = v;
         lazy = 0; rev = 0;
-        prior = rand(); // use mt19937 random genarator
+        prior = rand(); // use mt19937 random generator
         size = 1;
         l = r = NULL;
     }
