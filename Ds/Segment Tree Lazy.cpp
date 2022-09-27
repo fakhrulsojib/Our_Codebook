@@ -45,7 +45,7 @@ struct segtree
 	}
 	void Build(){ build(1, 0, n - 1); } // Use this 
 
-	void update(int at, int l, int r, int L, int R, int val)
+	void update(int at, int l, int r, int L, int R, T val)
     {
         push(at, l, r);
         if (r < L || R < l) return;
@@ -60,7 +60,7 @@ struct segtree
         update(at << 1 | 1, m + 1, r, L, R, val);
         tree[at] = combine(tree[at << 1], tree[at << 1 | 1]);
     }
-    void Update(int l, int r, int val) { update(1, 0, n - 1, l, r, val); } // Use this
+    void Update(int l, int r, T val) { update(1, 0, n - 1, l, r, val); } // Use this
 
     T quer(int at, int l, int r, int L, int R)
     {
