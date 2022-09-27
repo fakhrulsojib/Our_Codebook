@@ -11,7 +11,7 @@ struct segtree
 		lazy.resize(4 * len, 0);
 		n = len;
 	}
-	segtree(vector<int> z)
+	segtree(vector<T> z)
 	{
 		a = z;
 		n = a.size();
